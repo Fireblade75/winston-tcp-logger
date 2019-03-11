@@ -1,0 +1,19 @@
+{
+  "name": "winston-tcp-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ip": "^1.1.5",
+    "os-name": "^3.0.0",
+    "winston": "^3.2.1",
+    "winston-transport": "^4.3.0"
+  }
+}
