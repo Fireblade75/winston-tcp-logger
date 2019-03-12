@@ -1,5 +1,5 @@
 // The Syslog Log Levels
-const sysLogLevels = {
+const syslogLevels = {
   emerg: 0,
   alert: 1,
   crit: 2,
@@ -10,4 +10,4 @@ const sysLogLevels = {
   debug: 7
 }
 
-module.exports = sysLogLevels
+module.exports = syslogLevels

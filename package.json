@@ -1,6 +1,6 @@
 {
   "name": "winston-tcp-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Fireblade75/winston-tcp-logger"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "ip": "^1.1.5",
